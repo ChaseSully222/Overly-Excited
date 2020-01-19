@@ -22,7 +22,7 @@ let sentence = [
 function addExcitement(theWordArray, addChar) {
   // Each time the for loop executes, you're going to add one more word to this string
   let buildMeUp = "";
-  console.log(addChar)
+ 
   for (let i = 0; i < theWordArray.length; i++) {
    
     // Concatenate the new word onto buildMeUp
